@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kezia. I also go by @keziakandii
+- 👋 Hi, I’m Kezia.
 - 👀 I’m interested in full stack or back-end
 - 🌱 I’m currently brushing up my skills with python, html, and css.
 
