@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack or back-end
 - 🌱 I’m currently brushing up my skills with python, html, and css.
 - :woman_technologist: I am seeking internship opportunities
+- Feel free to message me on Linkedln: https://www.linkedin.com/in/kezia-m-25388a150/
 
 
 <!---
