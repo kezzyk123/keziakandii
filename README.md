@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kezia.
 - 👀 I’m interested in full stack and back-end 
-- 🌱 I’m currently brushing up my skills in python.
-- :woman_technologist: I am seeking internship opportunities
+- 🌱 I’m currently building projects in Python.
+- :woman_technologist: I am seeking part time opportunities
 - Feel free to message me on Linkedln: https://www.linkedin.com/in/kezia-m-25388a150/
 
 
